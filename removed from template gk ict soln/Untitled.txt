@@ -1,0 +1,44 @@
+color: #2f2f2f;---------line 25 css
+
+color: #2f2f2f;--------line 28 css
+
+new color------237dbc----------like blue
+
+ background: #3b5d50 !important;------line 34 css
+
+line 184 css---------background: #f9bf29;
+
+new color red------a03333
+hover new-----952525
+
+----------------------
+18th feb 2024
+---------------
+what is required of IT company
+products to sell
+1. Laptops
+2. Desktops
+3. Printers--kyocera, epson, canon
+3.5. Computer Hardware---keyboards,mouse,monitor,hardisk,ssd,case,switch,routers,ram,vga
+4. Graphics designing
+5. Intership training
+6. Branding
+7. Computer maintenace
+8. Database managment systems
+9. Web designing
+9.5 Android apps
+10. Web hosting
+11. Computer Networking
+12. Bulk sms
+13. Computer Software packs
+14. IT projects
+15. Printer maintenace
+----------------------------------------
+What an IT company does
+---------------
+https://blog.etech7.com/what-exactly-does-an-it-support-company-do
+
+https://webflow.com/free-website-templates
+
+------------
+line 121 css--------color: rgba(255, 255, 255, 0.5);
